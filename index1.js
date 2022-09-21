@@ -30,7 +30,7 @@ function subtract()
 }
 function multiply()
 {
-    let product=0;
+    let product=1;
     for(item of commandLineArguments)
     {
         if(!isNaN(item))
